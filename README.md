@@ -277,3 +277,6 @@ For more information on AngularJS, please check out https://angularjs.org/.
 [node]: https://nodejs.org/
 [protractor]: http://www.protractortest.org/
 [selenium]: http://docs.seleniumhq.org/
+=======
+# angular-phonecat
+>>>>>>> 795e38b2f7722fc66481389fed36ad478e4b5dbf
