@@ -15,3 +15,5 @@ before_script:
 
 script:
   - scripts/private/test-all.sh
+  
+  
